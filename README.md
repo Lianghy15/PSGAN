@@ -1,6 +1,7 @@
 # PSGAN
 
 This is my version of PSGAN.
+This readme is adapted for the dev branch.
 
 Code for our CVPR 2020 **oral** paper "[PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer](https://arxiv.org/abs/1909.06956)".
 
